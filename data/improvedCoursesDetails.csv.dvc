@@ -1,0 +1,4 @@
+outs:
+- md5: d30319a73a8dc1b86e6fadc83a9cf286
+  size: 26074
+  path: improvedCoursesDetails.csv
